@@ -30,10 +30,6 @@ Halaman utama website menampilkan tampilan yang menarik dengan gaya Netflix, ter
   - Judul utama menggunakan font 'Bebas Neue' dengan ukuran besar (5rem)
   - Deskripsi singkat dengan bayangan teks untuk kontras
 
-- **Bagian "Trending"**:
-
-  - Menampilkan makanan populer dalam format slider
-  - Menggunakan badge dengan warna Netflix merah
 
 - **Slider Konten**:
 
